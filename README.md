@@ -1,3 +1,5 @@
+This new repository "my-react-app"  was created by VS code terminal on 18 Nov 2026 at the following location
+/media/sam/CRUZER/Cruzer/document/SRC/chapter-6-window/my-app/my-react-app
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
