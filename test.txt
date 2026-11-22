@@ -1,0 +1,2 @@
+creation of this file is to test the connection between vs code and git hub
+on 22 Nov 2026 at 22:26
