@@ -1,4 +1,5 @@
-<modify file content not commit message> at 14:17 by vs code "vim" under branch "master"
+<modify file (test.txt) content not commit message> at 14:31 by vs code "vim" under branch "main"
+terminal command for merging a single file from "master" into branch "main" with the same filename
 by vs code "vim"
 
 modified 40 minutes later under branch "master"
